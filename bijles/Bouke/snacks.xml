@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Friettent>
+  <Snack>
+    <Naam>Pizza</Naam>
+    <Omschrijving>Magarita</Omschrijving>
+    <Prijs>10.50</Prijs>
+  </Snack>
+   <Snack>
+    <Naam>Variantje</Naam>
+    <Omschrijving>van alles wa</Omschrijving>
+    <Prijs>2.10</Prijs>
+  </Snack>
+   <Snack>
+    <Naam>vlamtosti</Naam>
+    <Omschrijving>fuking heet</Omschrijving>
+    <Prijs>1.80</Prijs>
+  </Snack>
+</Friettent>
